@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="images">
+        <item>@drawable/ic_tela_localizacao</item>
+        <item>@drawable/ic_tela_decor</item>
+        <item>@drawable/ic_tela_financas</item>
+        <item>@drawable/ic_tela_contrato</item>
+    </array>
+
+    <string-array name="names">
+        <item>Localização</item>
+        <item>Decoração</item>
+        <item>Finanças</item>
+        <item>Contrato</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>Dicas de Localização</item>
+        <item>Dicas de Decoração</item>
+        <item>Dicas de Finanças</item>
+        <item>Dicas de Contrato</item>
+    </string-array>
+</resources>

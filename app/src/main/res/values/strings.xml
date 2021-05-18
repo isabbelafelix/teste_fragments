@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Novo Teste Fragments</string>
+    <string name="text_descricao">Onde encontrar a melhor Localização? Na hora de alugar um imóvel, é preciso levar diversos fatores em consideração, de forma que a escolha seja adequada e evite transtornos no futuro. Porém, entre todas as características que uma propriedade pode ter, a localização certamente é a mais importante. O lugar ideal pode melhorar consideravelmente a qualidade de vida dos moradores e possibilitar um dia a dia muito mais tranquilo e feliz. Quer entender como escolher a melhor localização para você?</string>
+    <string name="titulo_principal">Localização</string>
+</resources>
