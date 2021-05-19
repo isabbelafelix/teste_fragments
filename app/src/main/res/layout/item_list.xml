@@ -21,14 +21,15 @@
             android:src="@drawable/ic_tela_localizacao"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="parent" />
+            app:layout_constraintTop_toTopOf="parent"
+            android:contentDescription="@null" />
 
         <TextView
             android:id="@+id/list_name"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:text="@string/titulo_principal"
-            android:textSize="24sp"
+            android:textSize="22sp"
             android:layout_marginStart="32dp"
             app:layout_constraintBottom_toBottomOf="@+id/list_image"
             app:layout_constraintStart_toEndOf="@+id/list_image"
